@@ -49,6 +49,11 @@ First step is to upload FW to board using Arduino IDE (through serial connection
 
 Afterwards, you can build a *.bin* file with Arduino IDE (**Sketch->Export compiled Binary**) and upload it through the ESP32 OTA upgrade page.
 
+Support
+=======
+
+<a href="https://www.buymeacoffee.com/kiko283" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 Credits
 =======
 
